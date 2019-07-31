@@ -16,7 +16,7 @@
   "dependencies": {
     "commander": "*",
     "he": "^0.4.1",
-    "jsdom-little": "^0.10.5"
+    "jsdom-little": "https://github.com/mbteswedenab/jsdom-little.git#5bad842007354cd28ea85fe7749a00872f3b7081"
   },
   "devDependencies": {
     "async": "*",
